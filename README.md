@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi! Tudo bem? Eu sou a
-    <a href="https://www.linkedin.com/in/brunarod-otto/">Bruna Rodrigues Otto ☺!>
+    <a href="https://www.linkedin.com/in/brunarod-otto/">Bruna Rodrigues Otto ☺
  </a>
   </h1>
  
