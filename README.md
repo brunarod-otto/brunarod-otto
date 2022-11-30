@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi! Tudo bem? Eu sou a
-    <a href="https://www.linkedin.com/in/brunarod-otto/">Bruna Rodrigues Otto ☺![image](https://user-images.githubusercontent.com/110209213/204871511-20635896-a6ca-4773-a4a6-6ff9862ed7f4.png)
+    <a href="https://www.linkedin.com/in/brunarod-otto/">Bruna Rodrigues Otto ☺!>
  </a>
   </h1>
  
